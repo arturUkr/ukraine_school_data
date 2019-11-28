@@ -7,7 +7,7 @@ from visikim_api import get_geocode
 from api import api
 
 # load school data
-res = pd.read_excel("school.xlsx", sheet_name="kyiv")
+res = pd.read_excel("school.xlsx", sheet_name="dnipro")
 
 # list for save school
 res_list = []
@@ -35,7 +35,7 @@ for school in res_list:
 
 
 # save list of schools with geo coding to json
-with open('kyiv.json', 'w', encoding="utf8") as file:
+with open('json_coord_data/dnipro.json', 'w', encoding="utf8") as file:
     json.dump(res_list,
               file,
               sort_keys=False,
