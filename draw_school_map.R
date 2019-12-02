@@ -4,6 +4,11 @@ library(dplyr)
 library(leaflet)
 library(glue)
 library(scico)
+library(ggplot2)
+library(fs)
+library(purrr)
+library(sf)
+
 
 
 school_data <- 

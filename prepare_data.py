@@ -2,7 +2,7 @@ import json
 import pandas as pd
 
 
-with open("json_coord_data/dnipro.json", 'r', encoding="utf-8") as file:
+with open("json_coord_data/c4.json", 'r', encoding="utf-8") as file:
     data = json.load(file)
 
 
@@ -12,12 +12,12 @@ for school in data:
     if geo_data.get('features'):
         geo_data = geo_data['features'][0]['geo_centroid']['coordinates']
     else:
-        geo_data = geo_data['geo_centroid']['coordinates']
+        geo_data = geo_data['geo_centroid']['coordinates'] if geo_data.get('geo_centroid') else None
     final_result.append(
         {
             'school_id': str(school['school_id']),
-            'school_lng': geo_data[0],
-            'school_lat': geo_data[1]
+            'school_lng': geo_data[0] if geo_data else None,
+            'school_lat': geo_data[1] if geo_data else None
         }
     )
 
@@ -32,4 +32,4 @@ for school in final_result:
 
 final_result_prep_df = pd.DataFrame(data=final_result_prep)
 
-final_result_prep_df.to_excel("coord_result_data/dnipro_school_coord.xlsx", index=False)
+final_result_prep_df.to_excel("coord_result_data/c4_school_coord.xlsx", index=False)

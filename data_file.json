@@ -1,0 +1,1729 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "POIFQIH06P",
+            "properties": {
+                "name": "Райффайзен Банк Аваль",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Басейна вул., 4",
+                "address_info": "Мандарин-Плаза, на 2-му поверсі",
+                "country_code": "ua",
+                "site_url": "http://aval.ua",
+                "star": 0,
+                "vitrine": "Банкомат \"Райффайзен Банк Аваль\"",
+                "w24hours": false,
+                "icon": "https://static.visicom.ua/db/pois/files/2.4477051709585038E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 15
+            },
+            "bbox": [
+                30.52188,
+                50.44136,
+                30.52188,
+                50.44136
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.52188,
+                    50.44136
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POIFQIH06P.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POI2WM9G0HZ",
+            "properties": {
+                "name": "Правекс-банк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Басейна вул., 4",
+                "address_info": "ТЦ \"Mandarin Plaza\", супермаркет \"Le Silpo\"",
+                "country_code": "ua",
+                "site_url": "https://www.pravex.com.ua/",
+                "star": 0,
+                "vitrine": "Банкомат \"ПРАВЕКС-БАНК\"",
+                "w24hours": false,
+                "icon": "https://static.visicom.ua/db/pois/files/1.0013451996285317E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 24
+            },
+            "bbox": [
+                30.52177,
+                50.4414,
+                30.52177,
+                50.4414
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.52177,
+                    50.4414
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POI2WM9G0HZ.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POI2WUQXN0Q",
+            "properties": {
+                "name": "Приватбанк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Басейна вул., 6",
+                "address_info": "ТЦ Мандарин, Ле Сiльпо",
+                "country_code": "ua",
+                "site_url": "http://privatbank.ua/",
+                "star": 0,
+                "vitrine": "Банкомат \"ПриватБанк\"",
+                "w24hours": false,
+                "icon": "https://static.visicom.ua/db/pois/files/1.0013451996285317E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 43
+            },
+            "bbox": [
+                30.52143,
+                50.44124,
+                30.52143,
+                50.44124
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.52143,
+                    50.44124
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POI2WUQXN0Q.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POI1I26WQDG",
+            "properties": {
+                "name": "Євронет",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Басейна вул., 3",
+                "address_info": "торговий центр \"Метроград\"",
+                "country_code": "ua",
+                "site_url": "http://eeft.com",
+                "star": 0,
+                "vitrine": "Банкомат \"Euronet\"",
+                "w24hours": false,
+                "icon": "https://static.visicom.ua/db/pois/files/9.457183531658517E-308",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 67
+            },
+            "bbox": [
+                30.52273,
+                50.44167,
+                30.52273,
+                50.44167
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.52273,
+                    50.44167
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POI1I26WQDG.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POIFQIH0XX",
+            "properties": {
+                "name": "Приватбанк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Басейна вул., 3",
+                "address_info": "Метроград",
+                "country_code": "ua",
+                "site_url": "http://privatbank.ua/",
+                "star": 0,
+                "vitrine": "Банкомат \"ПриватБанк\"",
+                "w24hours": true,
+                "icon": "https://static.visicom.ua/db/pois/files/2.4477051709585038E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 68
+            },
+            "bbox": [
+                30.52269,
+                50.44171,
+                30.52269,
+                50.44171
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.52269,
+                    50.44171
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POIFQIH0XX.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POIFQIH01L",
+            "properties": {
+                "name": "Кліринговий дім",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Басейна вул., 2",
+                "address_info": "ТК \"Арена-Сіті\", 1-й поверх",
+                "country_code": "ua",
+                "site_url": "http://www.clhs.kiev.ua/",
+                "star": 0,
+                "vitrine": "Банкомат \"КЛІРИНГОВИЙ ДІМ\"",
+                "w24hours": true,
+                "icon": "https://static.visicom.ua/db/pois/files/2.4477051709585038E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 75
+            },
+            "bbox": [
+                30.52132,
+                50.44176,
+                30.52132,
+                50.44176
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.52132,
+                    50.44176
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POIFQIH01L.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POI2WTQ3CUH",
+            "properties": {
+                "name": "Приватбанк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Бессарабська пл., 2",
+                "address_info": "Метроград",
+                "country_code": "ua",
+                "site_url": "http://privatbank.ua/",
+                "star": 0,
+                "vitrine": "Банкомат \"ПриватБанк\"",
+                "w24hours": true,
+                "icon": "https://static.visicom.ua/db/pois/files/1.0013451996285317E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 129
+            },
+            "bbox": [
+                30.521,
+                50.44223,
+                30.521,
+                50.44223
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.521,
+                    50.44223
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POI2WTQ3CUH.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POI2WUR0OEK",
+            "properties": {
+                "name": "Приватбанк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Руставелі Шота вул., 1/12",
+                "address_info": "Відділення банку",
+                "country_code": "ua",
+                "site_url": "http://privatbank.ua/",
+                "star": 0,
+                "vitrine": "Банкомат \"ПриватБанк\"",
+                "w24hours": false,
+                "icon": "https://static.visicom.ua/db/pois/files/1.0013451996285317E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 153
+            },
+            "bbox": [
+                30.5226,
+                50.43994,
+                30.5226,
+                50.43994
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.5226,
+                    50.43994
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POI2WUR0OEK.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POI2WC8ZBIH",
+            "properties": {
+                "name": "Перший Інвестиційний Банк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Скоропадського Павла вул.",
+                "address_info": "ТЦ \"Метроград\"",
+                "country_code": "ua",
+                "site_url": "http://pinbank.ua",
+                "star": 0,
+                "vitrine": "Банкомат \"Перший Інвестиційний Банк\"",
+                "w24hours": false,
+                "icon": "https://static.visicom.ua/db/pois/files/1.0013451996285317E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 167
+            },
+            "bbox": [
+                30.51982,
+                50.44076,
+                30.51982,
+                50.44076
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.51982,
+                    50.44076
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POI2WC8ZBIH.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POIFQIGZCA",
+            "properties": {
+                "name": "Перший Інвестиційний Банк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Бессарабська пл.",
+                "address_info": "ТЦ \"Метроград\"",
+                "country_code": "ua",
+                "site_url": "http://pinbank.ua",
+                "star": 0,
+                "vitrine": "Банкомат \"Перший Інвестиційний Банк\"",
+                "w24hours": false,
+                "icon": "https://static.visicom.ua/db/pois/files/2.4477051709585038E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 168
+            },
+            "bbox": [
+                30.5203,
+                50.44229,
+                30.5203,
+                50.44229
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.5203,
+                    50.44229
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POIFQIGZCA.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POIFQIGZC1",
+            "properties": {
+                "name": "Приватбанк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Велика Васильківська (Червоноармійська) вул., 2",
+                "address_info": "Метроград",
+                "country_code": "ua",
+                "site_url": "http://privatbank.ua/",
+                "star": 0,
+                "vitrine": "Банкомат \"ПриватБанк\"",
+                "w24hours": false,
+                "icon": "https://static.visicom.ua/db/pois/files/2.4477051709585038E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 190
+            },
+            "bbox": [
+                30.51974,
+                50.44215,
+                30.51974,
+                50.44215
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.51974,
+                    50.44215
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POIFQIGZC1.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POI1IQ310WX",
+            "properties": {
+                "name": "Діамантбанк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Руставелі Шота вул., 12",
+                "address_info": "Відділення банку",
+                "country_code": "ua",
+                "site_url": "http://diamantbank.ua/",
+                "star": 0,
+                "vitrine": "Банкомат \"Діамантбанк\"",
+                "w24hours": true,
+                "icon": "https://static.visicom.ua/db/pois/files/9.457183531658517E-308",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 203
+            },
+            "bbox": [
+                30.52089,
+                50.43959,
+                30.52089,
+                50.43959
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.52089,
+                    50.43959
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POI1IQ310WX.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POIFQIGY26",
+            "properties": {
+                "name": "Ощадбанк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Шевченка Тараса бульв., 1",
+                "address_info": "Філія банку",
+                "country_code": "ua",
+                "site_url": "http://www.oschadbank.ua/",
+                "star": 0,
+                "vitrine": "Банкомат \"Ощадбанк\"",
+                "w24hours": true,
+                "icon": "https://static.visicom.ua/db/pois/files/2.4477051709585038E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 212
+            },
+            "bbox": [
+                30.51941,
+                50.44218,
+                30.51941,
+                50.44218
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.51941,
+                    50.44218
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POIFQIGY26.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POI2XUH3BGM",
+            "properties": {
+                "name": "Таскомбанк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Шевченка Тараса бульв., 2",
+                "address_info": "Відділення банку",
+                "country_code": "ua",
+                "site_url": "http://www.tascombank.com.ua/",
+                "star": 0,
+                "vitrine": "Банкомат \"ТАСКОМБАНК\"",
+                "w24hours": false,
+                "icon": "https://static.visicom.ua/db/pois/files/1.0013451996285317E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 219
+            },
+            "bbox": [
+                30.51994,
+                50.44271,
+                30.51994,
+                50.44271
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.51994,
+                    50.44271
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POI2XUH3BGM.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POI1IVWEA4M",
+            "properties": {
+                "name": "Правекс-банк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Круглоуніверситетська вул., 3-5",
+                "address_info": "Візовий центр Італії в Україні",
+                "country_code": "ua",
+                "site_url": "https://www.pravex.com.ua/",
+                "star": 0,
+                "vitrine": "Банкомат \"ПРАВЕКС-БАНК\"",
+                "w24hours": false,
+                "icon": "https://static.visicom.ua/db/pois/files/9.457183531658517E-308",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 225
+            },
+            "bbox": [
+                30.52318,
+                50.44315,
+                30.52318,
+                50.44315
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.52318,
+                    50.44315
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POI1IVWEA4M.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POIFQIGYTU",
+            "properties": {
+                "name": "Приватбанк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Хрещатик вул., 52",
+                "address_info": "Метроград",
+                "country_code": "ua",
+                "site_url": "http://privatbank.ua/",
+                "star": 0,
+                "vitrine": "Банкомат \"ПриватБанк\"",
+                "w24hours": false,
+                "icon": "https://static.visicom.ua/db/pois/files/2.4477051709585038E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 226
+            },
+            "bbox": [
+                30.52001,
+                50.44284,
+                30.52001,
+                50.44284
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.52001,
+                    50.44284
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POIFQIGYTU.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POI17RRIDE3",
+            "properties": {
+                "name": "Унікредит банк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Шевченка Тараса бульв., 2",
+                "address_info": "Відділення банку",
+                "country_code": "ua",
+                "site_url": "http://www.unicreditbank.com.ua/",
+                "star": 0,
+                "vitrine": "Банкомат \"UniCredit Bank\"",
+                "w24hours": true,
+                "icon": "https://static.visicom.ua/db/pois/files/9.457183531658517E-308",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 233
+            },
+            "bbox": [
+                30.51966,
+                50.44271,
+                30.51966,
+                50.44271
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.51966,
+                    50.44271
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POI17RRIDE3.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POI1I26WQ4R",
+            "properties": {
+                "name": "Євронет",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Хрещатик вул., 52",
+                "address_info": "тоговий центр \"Метроград\"",
+                "country_code": "ua",
+                "site_url": "http://eeft.com",
+                "star": 0,
+                "vitrine": "Банкомат \"Euronet\"",
+                "w24hours": true,
+                "icon": "https://static.visicom.ua/db/pois/files/9.457183531658517E-308",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 237
+            },
+            "bbox": [
+                30.51998,
+                50.44295,
+                30.51998,
+                50.44295
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.51998,
+                    50.44295
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POI1I26WQ4R.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POI2WTQ1C8Y",
+            "properties": {
+                "name": "Приватбанк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Велика Васильківська (Червоноармійська) вул., 12",
+                "address_info": "Метроград, квартал Одягу",
+                "country_code": "ua",
+                "site_url": "http://privatbank.ua/",
+                "star": 0,
+                "vitrine": "Банкомат \"ПриватБанк\"",
+                "w24hours": false,
+                "icon": "https://static.visicom.ua/db/pois/files/1.0013451996285317E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 255
+            },
+            "bbox": [
+                30.51867,
+                50.44045,
+                30.51867,
+                50.44045
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.51867,
+                    50.44045
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POI2WTQ1C8Y.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POI1JBTJXXL",
+            "properties": {
+                "name": "Укрексімбанк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Еспланадна вул., 8/10",
+                "address_info": "Міністерство соціальної політики",
+                "country_code": "ua",
+                "site_url": "http://www.eximb.com/",
+                "star": 0,
+                "vitrine": "Банкомат \"Укрексімбанк\"",
+                "w24hours": true,
+                "icon": "https://static.visicom.ua/db/pois/files/9.457183531658517E-308",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 279
+            },
+            "bbox": [
+                30.52124,
+                50.4388,
+                30.52124,
+                50.4388
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.52124,
+                    50.4388
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POI1JBTJXXL.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POI25E86OME",
+            "properties": {
+                "name": "Приватбанк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Хрещатик вул., 27А",
+                "address_info": "відділення банку",
+                "country_code": "ua",
+                "site_url": "http://privatbank.ua/",
+                "star": 0,
+                "vitrine": "Банкомат \"ПриватБанк\"",
+                "w24hours": false,
+                "icon": "https://static.visicom.ua/db/pois/files/1.0013451996285317E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 287
+            },
+            "bbox": [
+                30.52151,
+                50.44383,
+                30.52151,
+                50.44383
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.52151,
+                    50.44383
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POI25E86OME.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POIFQO9HHR",
+            "properties": {
+                "name": "Приватбанк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Хрещатик вул., 46",
+                "address_info": "відділення банку",
+                "country_code": "ua",
+                "site_url": "http://privatbank.ua/",
+                "star": 0,
+                "vitrine": "Банкомат \"ПриватБанк\"",
+                "w24hours": true,
+                "icon": "https://static.visicom.ua/db/pois/files/2.4477051709585038E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 294
+            },
+            "bbox": [
+                30.52022,
+                50.44364,
+                30.52022,
+                50.44364
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.52022,
+                    50.44364
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POIFQO9HHR.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POI1IQ77O7I",
+            "properties": {
+                "name": "Перший Український Міжнародний Банк (ПУМБ)",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Круглоуніверситетська вул., 16/7",
+                "address_info": "Крутий узвіз, 7. \"Метінвест\"",
+                "country_code": "ua",
+                "site_url": "http://pumb.ua/",
+                "star": 0,
+                "vitrine": "Банкомат \"Перший Український Міжнародний Банк (ПУМБ)\"",
+                "w24hours": false,
+                "icon": "https://static.visicom.ua/db/pois/files/9.457183531658517E-308",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 296
+            },
+            "bbox": [
+                30.52545,
+                50.44281,
+                30.52545,
+                50.44281
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.52545,
+                    50.44281
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POI1IQ77O7I.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POI1X7NW8GA",
+            "properties": {
+                "name": "Ощадбанк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Спортивна пл., 1А",
+                "address_info": "ТРЦ \"Гулівер\", 5-й поверх",
+                "country_code": "ua",
+                "site_url": "http://www.oschadnybank.com",
+                "star": 0,
+                "vitrine": "Банкомат \"Ощадбанк\"",
+                "w24hours": true,
+                "icon": "https://static.visicom.ua/db/pois/files/9.457183531658517E-308",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 303
+            },
+            "bbox": [
+                30.52264,
+                50.43857,
+                30.52264,
+                50.43857
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.52264,
+                    50.43857
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POI1X7NW8GA.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POIFQIH2W0",
+            "properties": {
+                "name": "Креді Агріколь Банк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Басейна вул., 23",
+                "address_info": "відділення банку",
+                "country_code": "ua",
+                "site_url": "https://credit-agricole.ua/",
+                "star": 0,
+                "vitrine": "Банкомат \"Креді Агріколь Банк\"",
+                "w24hours": true,
+                "icon": "https://static.visicom.ua/db/pois/files/2.4477051709585038E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 310
+            },
+            "bbox": [
+                30.52517,
+                50.43932,
+                30.52517,
+                50.43932
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.52517,
+                    50.43932
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POIFQIH2W0.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POIFQIGYRX",
+            "properties": {
+                "name": "ОТП Банк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Руставелі Шота вул., 16",
+                "address_info": "Офіс банку",
+                "country_code": "ua",
+                "site_url": "http://www.otpbank.com.ua",
+                "star": 0,
+                "vitrine": "Банкомат \"OTP Bank\"",
+                "w24hours": true,
+                "icon": "https://static.visicom.ua/db/pois/files/2.4477051709585038E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 321
+            },
+            "bbox": [
+                30.51937,
+                50.43893,
+                30.51937,
+                50.43893
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.51937,
+                    50.43893
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POIFQIGYRX.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POI1X7O9FXV",
+            "properties": {
+                "name": "Ощадбанк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Спортивна пл., 1А",
+                "address_info": "Відділення банку",
+                "country_code": "ua",
+                "site_url": "http://www.oschadnybank.com",
+                "star": 0,
+                "vitrine": "Банкомат \"Ощадбанк\"",
+                "w24hours": true,
+                "icon": "https://static.visicom.ua/db/pois/files/9.457183531658517E-308",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 339
+            },
+            "bbox": [
+                30.5228,
+                50.43826,
+                30.5228,
+                50.43826
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.5228,
+                    50.43826
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POI1X7O9FXV.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POIFQIGXGA",
+            "properties": {
+                "name": "Унікредит Банк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Велика Васильківська (Червоноармійська) вул., 19",
+                "address_info": "Кінотеатр Київ",
+                "country_code": "ua",
+                "site_url": "http://www.unicredit.com.ua/",
+                "star": 0,
+                "vitrine": "Банкомат \"UniCredit Bank (Укрсоцбанк)\"",
+                "w24hours": true,
+                "icon": "https://static.visicom.ua/db/pois/files/2.4477051709585038E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 341
+            },
+            "bbox": [
+                30.51807,
+                50.43952,
+                30.51807,
+                50.43952
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.51807,
+                    50.43952
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POIFQIGXGA.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POI2WUTQV10",
+            "properties": {
+                "name": "Приватбанк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Руставелі Шота вул., 15Б",
+                "address_info": "Ресторан \"King David\"",
+                "country_code": "ua",
+                "site_url": "http://privatbank.ua/",
+                "star": 0,
+                "vitrine": "Банкомат \"ПриватБанк\"",
+                "w24hours": true,
+                "icon": "https://static.visicom.ua/db/pois/files/1.0013451996285317E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 344
+            },
+            "bbox": [
+                30.52042,
+                50.43835,
+                30.52042,
+                50.43835
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.52042,
+                    50.43835
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POI2WUTQV10.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POI1I26V1OX",
+            "properties": {
+                "name": "Євронет",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Велика Васильківська (Червоноармійська) вул., 19",
+                "address_info": "кінотеатр \"Київ\"",
+                "country_code": "ua",
+                "site_url": "http://eeft.com",
+                "star": 0,
+                "vitrine": "Банкомат \"Euronet\"",
+                "w24hours": true,
+                "icon": "https://static.visicom.ua/db/pois/files/9.457183531658517E-308",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 346
+            },
+            "bbox": [
+                30.51823,
+                50.43931,
+                30.51823,
+                50.43931
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.51823,
+                    50.43931
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POI1I26V1OX.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POIFQIGWRO",
+            "properties": {
+                "name": "Правекс-банк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Велика Васильківська (Червоноармійська) вул., 16",
+                "address_info": "ТЦ Метроград",
+                "country_code": "ua",
+                "site_url": "https://www.pravex.com.ua/",
+                "star": 0,
+                "vitrine": "Банкомат \"ПРАВЕКС-БАНК\"",
+                "w24hours": false,
+                "icon": "https://static.visicom.ua/db/pois/files/2.4477051709585038E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 349
+            },
+            "bbox": [
+                30.51755,
+                50.43996,
+                30.51755,
+                50.43996
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.51755,
+                    50.43996
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POIFQIGWRO.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POIFQIGWUZ",
+            "properties": {
+                "name": "ВТБ Банк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Шевченка Тараса бульв., 5-7/29",
+                "address_info": "готель \"Прем'єр Палац\"",
+                "country_code": "ua",
+                "site_url": "http://vtb.ua/",
+                "star": 0,
+                "vitrine": "Банкомат \"ВТБ Банк\"",
+                "w24hours": true,
+                "icon": "https://static.visicom.ua/db/pois/files/2.4477051709585038E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 356
+            },
+            "bbox": [
+                30.51738,
+                50.44249,
+                30.51738,
+                50.44249
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.51738,
+                    50.44249
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POIFQIGWUZ.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POI23OHWBYU",
+            "properties": {
+                "name": "Укргазбанк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Шевченка Тараса бульв., 6",
+                "address_info": "6/27",
+                "country_code": "ua",
+                "site_url": "http://www.ukrgasbank.com",
+                "star": 0,
+                "vitrine": "Банкомат \"Укргазбанк\"",
+                "w24hours": true,
+                "icon": "https://static.visicom.ua/db/pois/files/1.0013451996285317E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 358
+            },
+            "bbox": [
+                30.51778,
+                50.44301,
+                30.51778,
+                50.44301
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.51778,
+                    50.44301
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POI23OHWBYU.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POIFQIGWV0",
+            "properties": {
+                "name": "Перший Інвестиційний Банк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Шевченка Тараса бульв., 5-7/29",
+                "address_info": "Готель \"Прем'єр Палац\", головний вхід, 7-й та 1-й поверхи",
+                "country_code": "ua",
+                "site_url": "http://pinbank.ua",
+                "star": 0,
+                "vitrine": "Банкомат \"Перший Інвестиційний Банк\"",
+                "w24hours": true,
+                "icon": "https://static.visicom.ua/db/pois/files/2.4477051709585038E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 359
+            },
+            "bbox": [
+                30.51734,
+                50.44249,
+                30.51734,
+                50.44249
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.51734,
+                    50.44249
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POIFQIGWV0.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POI2WUR9CSB",
+            "properties": {
+                "name": "Приватбанк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Велика Васильківська (Червоноармійська) вул., 19",
+                "address_info": "\"Містер Кет\"",
+                "country_code": "ua",
+                "site_url": "http://privatbank.ua/",
+                "star": 0,
+                "vitrine": "Банкомат \"ПриватБанк\"",
+                "w24hours": true,
+                "icon": "https://static.visicom.ua/db/pois/files/1.0013451996285317E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 361
+            },
+            "bbox": [
+                30.51782,
+                50.43944,
+                30.51782,
+                50.43944
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.51782,
+                    50.43944
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POI2WUR9CSB.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POI1J3BYA69",
+            "properties": {
+                "name": "Приватбанк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Пушкінська вул., 25",
+                "address_info": "відділення банку",
+                "country_code": "ua",
+                "site_url": "http://privatbank.ua/",
+                "star": 0,
+                "vitrine": "Банкомат \"ПриватБанк\"",
+                "w24hours": false,
+                "icon": "https://static.visicom.ua/db/pois/files/9.457183531658517E-308",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 385
+            },
+            "bbox": [
+                30.5177,
+                50.44336,
+                30.5177,
+                50.44336
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.5177,
+                    50.44336
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POI1J3BYA69.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POI1FYG588N",
+            "properties": {
+                "name": "Райффайзен Банк Аваль",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Круглоуніверситетська вул., 20/1",
+                "address_info": "Державна інспекція техногенного захисту України",
+                "country_code": "ua",
+                "site_url": "http://aval.ua",
+                "star": 0,
+                "vitrine": "Банкомат \"Райффайзен Банк Аваль\"",
+                "w24hours": false,
+                "icon": "https://static.visicom.ua/db/pois/files/9.457183531658517E-308",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 388
+            },
+            "bbox": [
+                30.52715,
+                50.44251,
+                30.52715,
+                50.44251
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.52715,
+                    50.44251
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POI1FYG588N.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POIFQIGYNP",
+            "properties": {
+                "name": "Приватбанк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Велика Васильківська (Червоноармійська) вул., 22",
+                "address_info": "Метроград",
+                "country_code": "ua",
+                "site_url": "http://privatbank.ua/",
+                "star": 0,
+                "vitrine": "Банкомат \"ПриватБанк\"",
+                "w24hours": false,
+                "icon": "https://static.visicom.ua/db/pois/files/2.4477051709585038E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 398
+            },
+            "bbox": [
+                30.51699,
+                50.43968,
+                30.51699,
+                50.43968
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.51699,
+                    50.43968
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POIFQIGYNP.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POIIQBQWJF",
+            "properties": {
+                "name": "Піреус Банк МКБ",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Велика Васильківська (Червоноармійська) вул., 23",
+                "address_info": "Відділення банку",
+                "country_code": "ua",
+                "site_url": "http://www.piraeusbank.ua/",
+                "star": 0,
+                "vitrine": "Банкомат \"PIRAEUS BANK\"",
+                "w24hours": false,
+                "icon": "https://static.visicom.ua/db/pois/files/2.781466249734584E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 408
+            },
+            "bbox": [
+                30.51725,
+                50.43923,
+                30.51725,
+                50.43923
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.51725,
+                    50.43923
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POIIQBQWJF.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POIJHFTLX7",
+            "properties": {
+                "name": "Приватбанк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Руставелі Шота вул., 24",
+                "address_info": "Відділення банку",
+                "country_code": "ua",
+                "site_url": "http://privatbank.ua/",
+                "star": 0,
+                "vitrine": "Банкомат \"ПриватБанк\"",
+                "w24hours": false,
+                "icon": "https://static.visicom.ua/db/pois/files/2.892719942659944E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 411
+            },
+            "bbox": [
+                30.51826,
+                50.43846,
+                30.51826,
+                50.43846
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.51826,
+                    50.43846
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POIJHFTLX7.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POIFQIGWHL",
+            "properties": {
+                "name": "ВТБ Банк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Шевченка Тараса бульв., 8/26",
+                "address_info": "відділення банку",
+                "country_code": "ua",
+                "site_url": "http://vtb.ua/",
+                "star": 0,
+                "vitrine": "Банкомат \"ВТБ Банк\"",
+                "w24hours": true,
+                "icon": "https://static.visicom.ua/db/pois/files/2.4477051709585038E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 416
+            },
+            "bbox": [
+                30.51698,
+                50.44317,
+                30.51698,
+                50.44317
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.51698,
+                    50.44317
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POIFQIGWHL.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POI22JEI3VM",
+            "properties": {
+                "name": "Сбербанк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Еспланадна вул., 20",
+                "address_info": "відділення банку",
+                "country_code": "ua",
+                "phones": [
+                    "+380 (44) 354-15-15",
+                    "5595"
+                ],
+                "site_url": "https://www.sberbank.ua/",
+                "star": 0,
+                "vitrine": "Банкомат \"Сбербанк\"",
+                "w24hours": true,
+                "icon": "https://static.visicom.ua/db/pois/files/1.0013451996285317E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 418
+            },
+            "bbox": [
+                30.5203,
+                50.43767,
+                30.5203,
+                50.43767
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.5203,
+                    50.43767
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POI22JEI3VM.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POIKE211TN",
+            "properties": {
+                "name": "Укрексімбанк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Хмельницького Богдана вул., 3Б",
+                "address_info": "магазин \"Читай город\", хол",
+                "country_code": "ua",
+                "site_url": "http://www.eximb.com/",
+                "star": 0,
+                "vitrine": "Банкомат \"Укрексімбанк\"",
+                "w24hours": false,
+                "icon": "https://static.visicom.ua/db/pois/files/3.003973635585304E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 429
+            },
+            "bbox": [
+                30.51949,
+                50.44477,
+                30.51949,
+                50.44477
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.51949,
+                    50.44477
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POIKE211TN.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POIFQIGZ2E",
+            "properties": {
+                "name": "Правекс-банк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Пушкінська вул., 24А",
+                "address_info": "відділення банку",
+                "country_code": "ua",
+                "site_url": "https://www.pravex.com.ua/",
+                "star": 0,
+                "vitrine": "Банкомат \"ПРАВЕКС-БАНК\"",
+                "w24hours": false,
+                "icon": "https://static.visicom.ua/db/pois/files/2.4477051709585038E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 430
+            },
+            "bbox": [
+                30.51717,
+                50.44358,
+                30.51717,
+                50.44358
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.51717,
+                    50.44358
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POIFQIGZ2E.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POI2WJLI2AR",
+            "properties": {
+                "name": "Кредобанк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Велика Васильківська (Червоноармійська) вул., 23",
+                "address_info": "Відділення банку",
+                "country_code": "ua",
+                "site_url": "http://www.kredobank.com.ua",
+                "star": 0,
+                "vitrine": "Банкомат \"КРЕДОБАНК\"",
+                "w24hours": false,
+                "icon": "https://static.visicom.ua/db/pois/files/1.0013451996285317E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 434
+            },
+            "bbox": [
+                30.51696,
+                50.43907,
+                30.51696,
+                50.43907
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.51696,
+                    50.43907
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POI2WJLI2AR.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POIFQIGVY1",
+            "properties": {
+                "name": "Ощадбанк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Пушкінська вул., 45/2",
+                "address_info": "Відділення банку",
+                "country_code": "ua",
+                "site_url": "http://www.oschadnybank.com",
+                "star": 0,
+                "vitrine": "Банкомат \"Ощадбанк\"",
+                "w24hours": true,
+                "icon": "https://static.visicom.ua/db/pois/files/2.4477051709585038E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 445
+            },
+            "bbox": [
+                30.51622,
+                50.43976,
+                30.51622,
+                50.43976
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.51622,
+                    50.43976
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POIFQIGVY1.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POI2WTQ8QJV",
+            "properties": {
+                "name": "Приватбанк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Хмельницького Богдана вул., 2",
+                "address_info": "ЦУМ",
+                "country_code": "ua",
+                "site_url": "http://privatbank.ua/",
+                "star": 0,
+                "vitrine": "Банкомат \"ПриватБанк\"",
+                "w24hours": false,
+                "icon": "https://static.visicom.ua/db/pois/files/1.0013451996285317E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 448
+            },
+            "bbox": [
+                30.52037,
+                50.44515,
+                30.52037,
+                50.44515
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.52037,
+                    50.44515
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POI2WTQ8QJV.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POI3XNNGDSO",
+            "properties": {
+                "name": "ПУМБ (Перший український міжнародний банк)",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Богдана Хмельницького вул., 2",
+                "address_info": "вул. Хрещатик, 38",
+                "country_code": "ua",
+                "phones": [
+                    "+380 (96) 290-72-90",
+                    "+380 (50) 290-72-90",
+                    "+380 (93) 290-72-90"
+                ],
+                "site_url": "https://www.pumb.ua/",
+                "star": 0,
+                "vitrine": "Банкомат \"ПУМБ\" (Перший Український Міжнародний Банк)",
+                "w24hours": true,
+                "icon": "https://static.visicom.ua/db/pois/files/1.0569720460912118E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 454
+            },
+            "bbox": [
+                30.52032,
+                50.4452,
+                30.52032,
+                50.4452
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.52032,
+                    50.4452
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POI3XNNGDSO.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POIK74S7PE",
+            "properties": {
+                "name": "Унікредит Банк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Хмельницького Богдана вул., 5",
+                "country_code": "ua",
+                "site_url": "http://www.unicredit.com.ua/",
+                "star": 0,
+                "vitrine": "Банкомат \"UniCredit Bank (Укрсоцбанк)\"",
+                "w24hours": false,
+                "icon": "https://static.visicom.ua/db/pois/files/3.003973635585304E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 456
+            },
+            "bbox": [
+                30.51896,
+                50.44487,
+                30.51896,
+                50.44487
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.51896,
+                    50.44487
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POIK74S7PE.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POIFQIGVW6",
+            "properties": {
+                "name": "Приватбанк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Льва Толстого пл.",
+                "address_info": "Ст. м. Площа Льва Толстого, підземний перехід",
+                "country_code": "ua",
+                "site_url": "http://privatbank.ua/",
+                "star": 0,
+                "vitrine": "Банкомат \"ПриватБанк\"",
+                "w24hours": false,
+                "icon": "https://static.visicom.ua/db/pois/files/2.4477051709585038E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 459
+            },
+            "bbox": [
+                30.51625,
+                50.4394,
+                30.51625,
+                50.4394
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.51625,
+                    50.4394
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POIFQIGVW6.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POIFQIGVHT",
+            "properties": {
+                "name": "Креді Агріколь Банк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Пушкінська вул., 42/4",
+                "address_info": "Офіс банку",
+                "country_code": "ua",
+                "site_url": "https://credit-agricole.ua/",
+                "star": 0,
+                "vitrine": "Банкомат \"Креді Агріколь Банк\"",
+                "w24hours": true,
+                "icon": "https://static.visicom.ua/db/pois/files/2.4477051709585038E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 471
+            },
+            "bbox": [
+                30.51575,
+                50.43989,
+                30.51575,
+                50.43989
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.51575,
+                    50.43989
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POIFQIGVHT.json"
+        },
+        {
+            "type": "Feature",
+            "id": "POI24FR2MI5",
+            "properties": {
+                "name": "Діамантбанк",
+                "categories": "poi_atm",
+                "lang": "uk",
+                "address": "Київ, Пушкінська вул., 20А",
+                "address_info": "Відділення банку",
+                "country_code": "ua",
+                "site_url": "http://diamantbank.ua/",
+                "star": 0,
+                "vitrine": "Банкомат \"Діамантбанк\"",
+                "w24hours": false,
+                "icon": "https://static.visicom.ua/db/pois/files/1.0013451996285317E-307",
+                "copyright": "Map Data (c) 2019, \"\"Visicom\"\" PJSC.",
+                "dist_meters": 488
+            },
+            "bbox": [
+                30.51763,
+                50.44464,
+                30.51763,
+                50.44464
+            ],
+            "geo_centroid": {
+                "type": "Point",
+                "coordinates": [
+                    30.51763,
+                    50.44464
+                ]
+            },
+            "url": "https://api.visicom.ua/data-api/4.0/uk/feature/POI24FR2MI5.json"
+        }
+    ]
+}
